@@ -5,6 +5,10 @@
 - 💬 Ask me about Node.js and JavaScript world
 - 📫 How to reach me: linkedin
 
-[![Pedro Braghin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobraghin)](https://github.com/pedrobraghin/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobraghin)](https://github.com/pedrobraghin/github-readme-stats)
+<html>
+  <div align="center">
+    <a href="https://github.com/pedrobraghin">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrobraghin&show_icons=true&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobraghin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</html>
