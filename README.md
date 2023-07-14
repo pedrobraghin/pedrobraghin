@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Pedro Braghin, Node.js Back-end Developer!
 
-<!--
-**pedrobraghin/pedrobraghin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at Compass UOL as Back-end Developer Trainee
+- 🌱 I’m currently learning Nest.js and Docker
+- 💬 Ask me about Node.js and JavaScript world
+- 📫 How to reach me: linkedin
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <div align="center">
+    <a href="https://github.com/victormatta">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrobraghin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobraghin&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+</html>
